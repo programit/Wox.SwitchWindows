@@ -1,0 +1,12 @@
+﻿{
+    "ID": "A9348111C0274208BFBA01FF709812B8", //Plugin ID，32 bit UUID
+    "ActionKeyword": "sw", //Plugin default action keyword
+    "Name": "Window Switcher", //Plugin name
+    "Description": "Wox Plugin for switching windows", //Plugin description
+    "Author": "morman", //Plugin Author
+    "Version": "1.0.0", //Plugin version，must be x.x.x format
+    "Language": "csharp", //Plugin language，we support csharp,python and executable now
+    "Website": "http://www.johnmorman.com", //Plugin website or author website
+    "IcoPath": "Images\\windowSwitcher.png", //Plugin icon, relative path to the pluign folder
+    "ExecuteFileName": "Wox.SwitchWindows.dll" //Execution entry. Dll name for c# plugin, and python file for python plugin
+}
