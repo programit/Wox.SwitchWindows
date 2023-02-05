@@ -3,7 +3,7 @@ A window switcher for Wox that works on Windows 10
 
 
 
-Command is invoked with "sw <window title>"
+Command is invoked with "sw \<window title>"
 
 Command can be installed by downloading wox file and dragging it into Wox's main search window
 
